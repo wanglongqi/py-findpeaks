@@ -1,0 +1,3 @@
+[submodule "PeakUtils"]
+	path = PeakUtils
+	url = git@bitbucket.org:lucashnegri/peakutils.git
